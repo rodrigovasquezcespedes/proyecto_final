@@ -1,2 +1,3 @@
-# proyecto_final
-proyecto final desafio latam 
+GRUPO ROMINA OSORIO / RODRIGO VASQUEZ 
+RAMA BACKEND
+RAMA FEATURE/FRONTEND
