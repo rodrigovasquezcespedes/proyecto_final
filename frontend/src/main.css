@@ -6,7 +6,6 @@
     transition: all 0.3s ease-in-out;
     height: 80px;
     background-color: #343a40;
-    transition: height 0.3s ease-in-out, background-color 0.3s ease-in-out;
   }
 
   .navbar-custom.shrink {
